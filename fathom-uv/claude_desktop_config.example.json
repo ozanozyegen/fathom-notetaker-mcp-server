@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "fathom": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/ABSOLUTE/PATH/TO/fathom-uv",
+        "run",
+        "fathom.py"
+      ]
+    }
+  }
+}
+
