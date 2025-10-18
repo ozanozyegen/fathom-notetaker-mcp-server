@@ -1,4 +1,4 @@
-# Fathom Meeting Transcript MCP Server
+# Fathom AI Notetaker Unofficial MCP Server
 
 A Model Context Protocol (MCP) server that provides access to Fathom meeting recordings and transcripts through the Fathom API. Built with Python and `uv` for easy setup and deployment.
 
